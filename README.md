@@ -326,4 +326,4 @@ side** into one file:
 ---
 
 *Built with automated multilingual support (English, German, French,
-Spanish, Hindi, Mandarin) added to the original German-language application.*
+Spanish, Hindi, Mandarin).*
